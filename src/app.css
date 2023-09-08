@@ -1,0 +1,18 @@
+:root {
+  --primary: #63B4B8;
+  --alert: #DE5F65;
+  --warning: #F7E987;
+  --success: #5B9A8B;
+  --neutral: #B9B4C7;
+  --background: #252B48;
+  --foreground: #445069;
+  --text: #FAF0E6;
+}
+
+* {
+  color: var(--text);
+}
+
+body {
+  background-color: var(--background);
+}
